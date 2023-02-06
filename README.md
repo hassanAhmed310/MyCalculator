@@ -1,5 +1,5 @@
 # MyCalculator
-a calculator project with advanced UI and features.
-# Notes
-### Use C++ Language.
-### Follow clean code rules.
+A web-based calculator similar to that of windows.
+# Framworks
+### Angular.
+### Spring boot.
