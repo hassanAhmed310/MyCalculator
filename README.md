@@ -4,4 +4,4 @@ A web-based calculator similar to that of windows.
 ### Angular.
 ### Spring boot.
 # UI ScreenShot
-![UI ScreenShot](front.PNG)
+![UI ScreenShot](UI/front.PNG)
