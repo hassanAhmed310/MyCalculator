@@ -1,0 +1,15 @@
+<div id="frame">
+    <div class="calculator__display">
+        <div class="txt">
+            {{previous}}
+        </div>
+        <div class="txt">
+            {{current}}
+        </div>
+    </div>
+    <div class="calculator__keys">
+        <button *ngFor="let key of buttons" (click)="clicked(key.symbol)"  [ngStyle]="{'background-color':key.color}">
+          {{key.symbol}}
+        </button>
+    </div>
+</div>
